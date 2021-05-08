@@ -1,0 +1,36 @@
+html,body{
+    background-color: #a5a5b1;
+    display: grid;
+    place-items: cente
+}
+
+.card {
+    /* max-width: 1200px; */
+    background-color: #ffffff;
+    border-radius: 50px;
+    color: #6f707d;
+    font-family: 'Marcellus', serif
+}
+
+#heading {
+    font-size: 55px;
+    color: #2b304d
+}
+
+.temp {
+    place-items: center
+}
+
+.temp-details>p>span,
+.grey {
+    color: #a3acc1;
+    font-size: 12px
+}
+
+.fa {
+    color: #a5a5b1
+}
+
+*:focus {
+    outline: none
+}
