@@ -7,6 +7,6 @@ Weather app that uses the OpenWeatherMap API. A JavaScript project from the Odin
 #### 🛠️ Built with
 *  HTML
 *  CSS
-*  TypeScript
+*  JS
 *  Webpack
 *  OpenWeatherMap API
